@@ -5,7 +5,6 @@ import (
 	"github.com/spf13/viper"
 	"github.com/markbao/redditdaily/redditdaily"
 	"fmt"
-	"time"
 )
 
 func main() {
