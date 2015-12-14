@@ -1,0 +1,14 @@
+sendgrid_user: your_sendgrid_username
+sendgrid_key: your_sendgrid_password
+email_to: your@email.com
+email_to_name: Your Name
+email_from: your_email@domain.com
+email_from_name: Reddit Daily
+reddit_user_agent: Your User Agent Here
+subreddits:
+  - truereddit
+  - truetruereddit
+  - foodforthought
+  - depthhub
+  - insightfulquestions
+  - getdisciplined
